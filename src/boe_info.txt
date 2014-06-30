@@ -1,0 +1,126 @@
+[Collins COBUILD]
+
+Home     CobuildDirect     Catalogue     Word Features
+
+The Bank of English
+
+What is it?
+
+The Bank of English is a collection of samples of modern English language
+held on computer for analysis of words, meanings, grammar and usage. In
+linguistics and lexicography such a collection is termed a corpus.
+
+How big is it?
+
+In October 2000 the latest release of the corpus amounted to 415 million
+words and it continues to grow with the constant addition of new material.
+Research at COBUILD over the last fifteen years has shown that very large
+samples of text are necessary for good linguistic study, since the
+vocabulary of English is so large (well over half a million different
+words) and there is such variety in current usage. In order to draw
+statistically valid conclusions from computerised analysis of a corpus,
+researchers need to have adequate data samples at their disposal.
+
+What goes into it? And why?
+
+This huge collection is composed of a wide range of different types of
+writing and speech. It contains samples of the English language from
+hundreds of different sources. Written texts come from newspapers,
+magazines, fiction and non-fiction books, brochures, leaflets, reports,
+letters, and so on. The spoken word is represented by transcriptions of
+everyday casual conversation, radio broadcasts, meetings, interviews and
+discussions, etc. The material is up- to-date, with the majority of texts
+originating after 1990. Taken together the Bank of English provides
+objective evidence about the English which most people read, write, speak
+and hear every day of their lives.
+
+How is it updated and developed?
+
+New data is acquired continuously. Texts are received in electronic form
+(since most of the publishing world nowadays uses computer technology in
+producing printed material) and then processed to bring them into a
+standard format. Some books are scanned using OCR software. Magazines and
+ephemera are keyboarded. Audio recordings of speech are transcribed
+directly onto computer by specialist trained staff and we work in
+collaboration with other universities to collect new spoken recordings and
+transcriptions. The corpus includes millions of words of transcribed speech
+from the BBC World Service radio broadcasts, and the American National
+Public Radio. The mix and variety of texts represented in the Bank of
+English is kept under constant review and new sources are introduced to
+maintain the balance of the material so that it reflects the mainstream of
+current English today.
+
+When was it founded, how, why, by whom?
+
+The Bank of English was launched in 1991 by COBUILD (a division of
+HarperCollins Publishers) and The University of Birmingham. Since 1980
+COBUILD, which is based within the School of English at Birmingham
+University, has been collecting a corpus of texts on computer for
+dictionary compilation and language study. In 1991 HarperCollins decided on
+a major initiative to increase the scale of the corpus to 200 million
+words, to form the basic data resource for a new generation of
+authoritative language reference publications.
+
+What is it used for?
+
+Lexicographers and linguists working at COBUILD in Birmingham and
+HarperCollins dictionaries department in Glasgow have workstations on their
+desks giving them sophisticated analysis software for accessing the corpus.
+They can search for patterns of word combination, check word frequencies,
+see examples of all the uses of particular words and analyse these results
+so that the information which is recorded in dictionaries and other
+reference works is authoritative and backed up by hard evidence wherever
+possible. Academic linguists, language teachers, translators and students
+can use the Bank of English as a basic resource for their studies and
+professional activity. At the University of Birmingham, for example,
+language teachers from around the world who are gaining post- graduate or
+post-experience qualifications can use the corpus to deepen their
+understanding of how English is used in real life and to enhance their
+classroom teaching of vocabulary and grammar.
+
+What might it be used for?
+
+In the Information Technology age, computers need to process language more
+and more: word-processors, spelling-checkers, machine translation systems,
+computerised information services are examples of new technology in which
+language is a key component. The Bank of English provides data about
+English words and grammar which is proving to be very useful for improving
+these high-tech systems. Spelling checkers for example currently cannot
+usually identify incorrect spellings which happen to form another valid
+English word ("She thanked him and than left.."). Using statistical
+probabilities derived from the Bank of English, the computer program could
+predict that the word "than" would be better replaced with "then".
+
+How does the BoE make for better dictionaries?
+
+The information derived from the Bank of English can improve almost every
+aspect of dictionary making. Does anyone ever use the word "gay" in its
+older sense nowadays? Call up all instances of the word and find out. Is it
+correct to say "different from" or should it be "different to"? The corpus
+will show which form is most common and further analysis will show whether
+one form is used more in writing and the other in speech. If a new car is
+described as "cheap", does this carry a negative connotation? What about a
+new brand of chocolate bar? The Bank of English will show whether the word
+"cheap" is simply neutral or whether it carries a definite disparaging
+meaning. Which technical terms should be included in a general-purpose
+dictionary? The BoE will yield frequency figures for terms, so that those
+which sometimes appear in magazines and newspapers can be distinguished
+from those which the layman is never likely to encounter. It is almost
+impossible to answer these questions without evidence to hand. Many people
+will have opinions about these points, but when it comes to committing
+language information to print in a dictionary we believe that we should
+take account of the wealth of data which the Bank of English provides about
+our language. Many of the innovative features in the latest edition of
+Collins COBUILD English Dictionary for Advanced Learners are possible only
+because of the analysis that we have carried out of millions of examples of
+words in use across a range of up-to-date texts.
+
+Can I use this resource?
+
+If you want a simple demonstration of how a corpus can highlight patterns
+of word usage and meaning, go to our free Concordance Demonstration and
+Collocation Demonstration pages. There you can see how words and phrases
+are actually used in real data. If you need access to a large English
+corpus for research purposes then you can subscribe to our CobuildDirect
+service to login and use the corpus analysis software we have developed.
+

@@ -1,0 +1,18 @@
+LISTADO DE LAS EXCEPCIONES
+
+Listas_Ordenadas
+
+Lista_Vacía: Se puede producir al eliminar el resto, eliminar el primero o acceder al primero de la lista vacía.
+Lista_Llena: Se produce si no hay espacio en memoria al colocar un elemento en la lista.
+
+
+Documento
+Error Apertura, Error Cierre: Se pueden producir al abrir o cerrar un fichero de texto.
+Error_Borrado: Se produce al borrar un fichero de acceso directo.
+Fichero_Desconocido: Se produce si el fichero nombrado no existe.
+Documento_Demasiado_Grande: El documento no se puede procesar ya que no se pueden generar las estructuras auxiliares.
+Inicialización_Incorrecta: No encuentra una posición el la tabla de posiciones de palabras.
+
+
+Contextos, Palabras, Entradas_Índice
+No_Espacio:Se produce cuando no hay espacio de memoria al intentar crear un objeto del tipo.
